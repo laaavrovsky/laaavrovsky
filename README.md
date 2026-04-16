@@ -1,6 +1,4 @@
-**Hello everyone!** 
-
-My name is **Ilya Lavrov**. I am a **Data Analyst**. 
+## Hello everyone! My name is **Ilya Lavrov**. I am a **Data Analyst**. 
 
 **About me:**
 
