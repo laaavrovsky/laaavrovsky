@@ -12,6 +12,6 @@ My stack:
 SQL (PostgreSQL), Python (pandas, numpy, scipy), matplotlib / seaborn, Jupyter Notebook, DataLens
 
 My contacts:
-Tel.: +7-909-295-16-75
-E-mail: lavrov.ilya2277@mail.ru
-TG: @laaavrovsky
+- Tel.: +7-909-295-16-75
+- E-mail: lavrov.ilya2277@mail.ru
+- TG: @laaavrovsky
