@@ -1,4 +1,4 @@
-#Hello everyone! My name is **Ilya Lavrov**. I am a **Data Analyst**. 
+-- Hello everyone! My name is **Ilya Lavrov**. I am a **Data Analyst**. 
 
 I started my career in the financial sector as a credit analyst, analyzing clients, their financial condition, and assessing risks. In the process, it became interesting to understand the data more deeply and not just evaluate them, but to look for patterns and causes.
 
